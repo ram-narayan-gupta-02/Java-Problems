@@ -2,4 +2,4 @@
 
 ### 1. Rock🪨, Paper🗞️ and Scissors✂️ Game
 ### 2. Choose Correct Number Game
-### 3. Calculator with Error and Exceptions
+### 3. Calculator with Error and Exception
