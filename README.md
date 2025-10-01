@@ -1,4 +1,4 @@
-# Java.github.in
+# Java Problems
 
 1. Rock🪨, Paper🗞️ and Scissors✂️ Game
 2. Choose Correct Number Game
